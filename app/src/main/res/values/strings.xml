@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Luna</string>
+
+    <string-array name="quotes">
+        <item>Be yourself; everyone else is already taken</item>
+        <item>Two things are infinite: the universe and human stupidity; and I\'m not sure about the universe</item>
+        <item>You only live once, but if you do it right, once is enough</item>
+        <item>Be the change that you wish to see in the world</item>
+        <item>No one can make you feel inferior without your consent</item>
+        <item>Live as if you were to die tomorrow. Learn as if you were to live forever</item>
+        <item>It is better to be hated for what you are than to be loved for what you are not</item>
+        <item>There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle</item>
+        <item>Life is what happens to you while you\'re busy making other plans</item>
+        <item>Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten</item>
+        <item>Never put off till tomorrow what may be done day after tomorrow just as well</item>
+        <item>It is never too late to be what you might have been</item>
+        <item>Sometimes the questions are complicated and the answers are simple</item>
+        <item>Everything you can imagine is real</item>
+        <item>Today you are You, that is truer than true. There is no one alive who is Youer than You</item>
+        <item>Life isn\'t about finding yourself. Life is about creating yourself</item>
+        <item>Success is not final, failure is not fatal: it is the courage to continue that counts</item>
+        <item>We are what we pretend to be, so we must be careful about what we pretend to be</item>
+        <item>Creativity is knowing how to hide your sources</item>
+        <item>Always do what you are afraid to do</item>
+        <item>A life spent making mistakes is not only more honorable, but more useful than a life spent doing nomatters</item>
+        <item>The most important thing is to enjoy your life—to be happy—it\'s all that matters</item>
+    </string-array>
+</resources>
